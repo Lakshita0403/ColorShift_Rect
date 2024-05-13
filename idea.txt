@@ -1,0 +1,6 @@
+
+1. First of all find out if mouse is on rectangle and movable or not.
+
+2. Then calculate that we are on the left side or right side from the center.
+
+3.Now calculate that how much distance we are on the left of center, if distance increases then red colour intensity increases and vice-versa.
